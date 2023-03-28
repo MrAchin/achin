@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Neeraj Sharma</h1>
+<h1 align="center">Hi 👋, I'm Achin Sharma</h1>
 
 <div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nrjsharma&label=Profile%20views&color=0e75b6&style=flat" alt="nrjsharma" /> </p>
