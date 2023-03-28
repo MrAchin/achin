@@ -3,7 +3,7 @@
 <div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nrjsharma&label=Profile%20views&color=0e75b6&style=flat" alt="nrjsharma" /> </p>
 
-I am a full stack developer from India. I have over five years of experience in web development. Apart from development, I love writing articles on different programming languages and frameworks. You can read my articles on [ilovedjango.com](https://ilovedjango.com)
+I am a full stack developer from India with over five years of experience in web application development. Apart from development, I love writing articles on different programming languages and frameworks. Have a look at my profile](https://mrachin.github.io/My-Static-Personal-Site/)
 </div>
 <div>
 
